@@ -1,0 +1,7 @@
+<view style="margin-top:30rpx;">watch监听：</view>
+<view class="">新值：{{watchData.newValue}}</view>
+<view class="">旧值：{{watchData.oldValue}}</view>
+<!-- <view>
+  <button bindtap="debounce">防抖</button>
+  <button style="margin-top:30rpx;" bindtap="throttle">节流</button>
+</view> -->
